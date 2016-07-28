@@ -1,4 +1,5 @@
-# Objective: Provides all of the convenience and security offered by industry leading online password managers minus the cloud.
+# Objective: 
+ - Provides all of the convenience and security offered by industry leading online password managers minus the cloud.
 
 # Core features
 
