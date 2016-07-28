@@ -14,3 +14,5 @@
 1. OpenVPN server for accessing database
 
 1. Clients: CLI API and Java mobile app
+
+1. Support for multiple accounts
